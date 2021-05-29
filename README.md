@@ -2,10 +2,11 @@
 
 BoD is a voice-based Business Intelligence chatbot. It responds to user questions about data in a database, It converts the questions into backend database queries, and transforms the results into natural language responses.
 
-## Featured of BoD:
+## Features of BoD:
 1. It keeps a track of the context of your questions.
 2. BoD can respond to users' questions by converting them into queries for the backend database.
 3. BoD can help you in your company's sales.
+4. It is cost effective.
 
 ## Project Architechture 
 Amazon S3[Stores database]
