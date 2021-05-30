@@ -13,7 +13,7 @@
 # $INTENTS      List of intent names for the bot
 # $SLOTS        List of slot type names for the bot
 # $LAMBDA       Name of the Lambda fulfillment function for the bot
-#
+
 
 SLEEP=2
 
