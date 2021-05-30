@@ -3,7 +3,6 @@
 #
 # Creates the Athena database
 #
-
 #
 # Environment variables to be set in the CodeBuild project
 #
