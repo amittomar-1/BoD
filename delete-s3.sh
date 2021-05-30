@@ -12,7 +12,7 @@
 # $ATHENA_BUCKET		S3 bucket where data files reside
 # $ATHENA_OUTPUT_LOCATION	S3 bucket for Athena output 
 # $ARTIFACT_STORE		S3 bucket for CodePipeline / CodeBuild code sharing
-#
+
 
 echo "Deleting S3 bucket $ATHENA_BUCKET"
 aws s3 rm --recursive $ATHENA_BUCKET
