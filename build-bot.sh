@@ -3,7 +3,6 @@
 #
 # Builds the bot, intents, and custom slot types
 #
-
 #
 # Environment variables to be set in the CodeBuild project
 #
